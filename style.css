@@ -1,0 +1,73 @@
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  flex-direction: column;
+
+  min-height: 100vh;
+
+  background-color: #f5f5f5;
+
+  padding: 1rem;
+}
+
+.fc-fw {
+  font-weight: bold;
+}
+
+.fc-fw::placeholder {
+  font-weight: normal;
+}
+
+.input--name {
+  min-width: 5rem;
+}
+
+.input--unit {
+  min-width: 3rem;
+}
+
+#calculator-input,
+#bmi-result {
+  flex-direction: column;
+}
+
+#calculator-input {
+  width: 250px;
+}
+
+#bmi-result {
+  min-width: 310px;
+  min-height: 220px;
+
+  border: 1px solid #dee2e6;
+  background-color: white;
+
+  text-align: center;
+}
+
+#bmi-value {
+  font-size: 1.5rem;
+}
+
+#bmi-type {
+  font-size: 2.5rem;
+}
+
+#bmi-emoji {
+  font-size: 2.5rem;
+}
+
+#bmi-value,
+#bmi-type {
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  #wrapper {
+    flex-direction: column;
+  }
+}
