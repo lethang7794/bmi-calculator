@@ -2,20 +2,27 @@
 
 Created with love by: `Thang`
 
-<!-- View online at: [https://balder-the-hero.netlify.app/](https://balder-the-hero.netlify.app/) -->
-<!-- TODO: 🎉 Public online to CodePen/Repl.it/CodeSandbox/Netlify then update the link here -->
+View online at: [https://lqt-bmi-calculator.netlify.app/](https://lqt-bmi-calculator.netlify.app/)
 
 Summary: This is a calculator for the Body mass index (<a href="https://en.wikipedia.org/wiki/Body_mass_index">BMI</a>), with validator for the input.
 
 This project is based on the code I submitted for a test in CoderSchool Fullstack Web Development Bootcamp.
 
-<!-- ## Video Walkthrough
-Here's a walkthrough of implemented user stories.
+## Walkthrough
 
-<a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/0jt4V7Rhy7.gif" max-height="400"></a>
--->
+Here's a walkthrough of the app.
 
-<!-- TODO: 🎬 Make a gif and show here -->
+- Responsive Design
+
+  <a href="https://balder-the-hero.netlify.app/"><img src="https://i.imgur.com/aBU4x7i.png" max-height="400"></a>
+
+- Calculate
+
+  <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" max-height="400"></a>
+
+- Input validation
+
+  <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/V7LpS2NnT0.gif" max-height="400"></a>
 
 ## License
 
