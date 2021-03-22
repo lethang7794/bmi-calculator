@@ -14,15 +14,15 @@ Here's a walkthrough of the app.
 
 - Responsive Design
 
-  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="https://i.imgur.com/aBU4x7i.png" max-height="400"></a>
+  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="https://i.imgur.com/aBU4x7i.png" height="auto" width="200px"></a>
 
 - Calculate
 
-  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" max-height="400"></a>
+  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" height="auto" width="500px"></a>
 
 - Input validation
 
-  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="http://g.recordit.co/V7LpS2NnT0.gif" max-height="400"></a>
+  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="http://g.recordit.co/V7LpS2NnT0.gif" height="auto" width="500px"></a>
 
 ## License
 
