@@ -14,15 +14,15 @@ Here's a walkthrough of the app.
 
 - Responsive Design
 
-  <a href="https://balder-the-hero.netlify.app/"><img src="https://i.imgur.com/aBU4x7i.png" max-height="400"></a>
+  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="https://i.imgur.com/aBU4x7i.png" max-height="400"></a>
 
 - Calculate
 
-  <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" max-height="400"></a>
+  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="http://g.recordit.co/wfRyhNxcMj.gif" max-height="400"></a>
 
 - Input validation
 
-  <a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/V7LpS2NnT0.gif" max-height="400"></a>
+  <a href="https://lqt-bmi-calculator.netlify.app/"><img src="http://g.recordit.co/V7LpS2NnT0.gif" max-height="400"></a>
 
 ## License
 
